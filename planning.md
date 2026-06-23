@@ -28,6 +28,17 @@ Example: *"Ronaldo is finished — he's only scored 3 goals in his last 15 games
 
 I'll keep a notes column in my CSV for borderline cases and document at least 3 in detail.
 
+**Documented hard cases from annotation:**
+
+1. *"Pep's won the lot and he still thinks it's a trophy, I'd believe him over any redditor tbh"*
+Could be **hot_take** or **analysis** — there's a logical argument being made (Pep's credentials lend weight to his view), but the reasoning is assertive rather than structured. → **hot_take**. The post isn't building an argument so much as using Pep's reputation as a shortcut.
+
+2. *"R9 is overrated overall is my hot take, people put him in the GOAT conversation when he's had neither the peak or longevity"*
+Could be **analysis** (references specific criteria: peak and longevity) or **hot_take** (no actual stats, just assertion). → **hot_take**. The criteria are vague and unverified — "neither the peak or longevity" isn't backed up by anything specific.
+
+3. *"This is A BIT like Fergie dragging those makeshift United squads to titles. Our season has been so cursed with injuries that if we had a lesser quality manager, we would for sure not make CL semis"*
+Could be **reaction** (emotional response to Arsenal's injury crisis) or **analysis** (draws a historical comparison to build an argument). → **analysis**. Despite the emotional tone, it makes a structured claim using a historical parallel as evidence.
+
 ## Data Collection Plan
 
 - Source: r/soccer, pulling from top posts and comment threads across match threads, discussion posts, and transfer threads
